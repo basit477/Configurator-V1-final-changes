@@ -1,0 +1,35 @@
+[
+  {
+    "name": "barstools",
+    "parts": [
+      { "name": "Finish", "value": "finish" },
+      { "name": "Fabric", "value": "fabric" }
+    ]
+  },
+  {
+    "name": "beds",
+    "parts": [
+      { "name": "Finish", "value": "Frame_Finish" },
+      { "name": "Joints", "value": "Frame_Finish2" },
+      { "name": "Fabric", "value": "upholstered_fabric" }
+    ]
+  },
+  {
+    "name": "benches",
+    "parts": [
+      { "name": "Finish", "value": "frame_finish" },
+      { "name": "Fabric", "value": "upholstered_fabric" }
+    ]
+  },
+  {
+    "name": "chairs",
+    "parts": [
+      { "name": "Finish", "value": "frame_finish" },
+      { "name": "Fabric", "value": "upholstered_fabric" }
+    ]
+  },
+  {
+    "name": "accent tables",
+    "parts": [{ "name": "Finish", "value": "frame_finish" }]
+  }
+]
